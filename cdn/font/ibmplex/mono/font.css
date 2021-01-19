@@ -2,3 +2,7 @@
     font-family: plex-mono-bold;
     src: url(IBMPlexMono-Bold.ttf);
 }
+@font-face {
+    font-family: plex-mono-light;
+    src: url(IBMPlexMono-Light.ttf);
+}
